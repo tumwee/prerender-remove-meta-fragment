@@ -1,0 +1,24 @@
+{
+  "name": "prerender-remove-meta-fragment",
+  "version": "1.0.0",
+  "description": "Plugin remove <meta name=\"fragment\" content=\"!\"> from html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabbitby/prerender-remove-meta-fragment.git"
+  },
+  "keywords": [
+    "prerender",
+    "meta",
+    "fragment"
+  ],
+  "author": "Andrew Meshchanchuk <andrew.meshchanchuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rabbitby/prerender-remove-meta-fragment/issues"
+  },
+  "homepage": "https://github.com/rabbitby/prerender-remove-meta-fragment#readme"
+}
